@@ -23,12 +23,12 @@
 	},
 	{
 	    "name":"PROTONMINE",
- 		"stats":"https://egem.protonmine.io/api/stats",
- 		"blocks":"https://egem.protonmine.io/api/blocks",
- 		"payments":"https://egem.protonmine.io/api/payments",
- 		"accounts":"https://egem.protonmine.io/api/accounts",
- 		"miners":"https://egem.protonmine.io/api/miners",
- 		"siteurl":"egem.protonmine.io",
+ 		"stats":"https://egem.protonmine.com/api/stats",
+ 		"blocks":"https://egem.protonmine.com/api/blocks",
+ 		"payments":"https://egem.protonmine.com/api/payments",
+ 		"accounts":"https://egem.protonmine.com/api/accounts",
+ 		"miners":"https://egem.protonmine.com/api/miners",
+ 		"siteurl":"egem.protonmine.com",
  		"notify":"mathias77992@gmail.com",
 		"contact":"mathias7799"
 	},
