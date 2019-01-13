@@ -108,5 +108,16 @@
  		"siteurl":"egem.europool.me",
  		"notify":"",
 		"contact":"@betmania1628"
+	},
+	{
+	  "name":"wattpool.net",
+ 		"stats":"https://egem.wattpool.net/api/stats",
+ 		"blocks":"https://egem.wattpool.net/api/blocks",
+ 		"payments":"https://egem.wattpool.net/api/payments",
+ 		"accounts":"https://egem.wattpool.net/api/accounts",
+ 		"miners":"https://egem.wattpool.net/api/miners",
+ 		"siteurl":"egem.wattpool.net",
+ 		"notify":"wattpool@gmail.com",
+		"contact":""
 	}
 ]
